@@ -5,3 +5,12 @@ Name List
 2. Bill Waterson
 3. Sally Heath
 4. Phyoe Thu
+4. Karl Carsola
+5. Collin Hiramoto
+6. Jessica Trejo
+7. Ethan Torres
+8. Nikita Shpak
+9. Dalan Choy
+10. Irwin Salamanca
+11. Phyoe Thu
+

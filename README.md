@@ -5,3 +5,5 @@ Name List
 2. Bill Waterson
 3. Sally Heath
 4. Karl Carsola
+5. Collin Hiramoto
+6. Jessica Trejo

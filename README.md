@@ -9,4 +9,5 @@ Name List
 6. Jessica Trejo
 7. Ethan Torres
 8. Nikita Shpak
+9. Dalan Choy
 

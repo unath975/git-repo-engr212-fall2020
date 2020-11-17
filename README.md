@@ -8,3 +8,5 @@ Name List
 5. Collin Hiramoto
 6. Jessica Trejo
 7. Ethan Torres
+8. Nikita Shpak
+

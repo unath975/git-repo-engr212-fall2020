@@ -7,3 +7,4 @@ Name List
 4. Karl Carsola
 5. Collin Hiramoto
 6. Jessica Trejo
+7. Ethan Torres

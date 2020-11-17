@@ -18,4 +18,5 @@ Name List
 15. Brandon Foley
 16. Hicham Hamed
 17. Jina Shin
+18. Hinal Halani
 

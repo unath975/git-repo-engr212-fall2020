@@ -21,5 +21,6 @@ Name List
 17. Jina Shin
 18. Hinal Halani
 19. Douglas Yang
-20. Lawrence Chau
+20. Earvin Agagas
+30. Lawrence Chau
 

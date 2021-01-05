@@ -24,5 +24,4 @@ Name List
 20. Earvin Agagas
 22. David Neri
 30. Lawrence Chau
-
-
+19. Tyrone Murray
